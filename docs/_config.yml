@@ -11,14 +11,14 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
+serverName: Eclipse SMP
+serverDescription: A Minecraft Bedrock Server
 serverIP: 31.41.59.26:5358
-useBedrockForOnlineStatus: false
+useBedrockForOnlineStatus: true
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
+discordInvite: https://discord.gg/Y5xR9BYFa4
 discordServerID: 867327555680600074
 discordChannelID: 871008626838482964
 
