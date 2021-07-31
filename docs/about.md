@@ -3,9 +3,9 @@ layout: page
 navname: About
 ---
 
-# {{ site.serverName }}
+# {{ eclipse.EclipseSMP }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
+Eclipse is a simple, flexible website for Minecraft servers.
 
 [GitHub](https://github.com/coffeebank/moonrise)
 
