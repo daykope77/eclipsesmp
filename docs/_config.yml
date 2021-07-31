@@ -13,7 +13,7 @@ showinSearchEngines: true
 # Set basic server info
 serverName: Eclipse SMP
 serverDescription: A Minecraft Bedrock Server
-serverIP: 31.41.59.26:5358
+serverIP: eclipsecloud.ml:19755
 useBedrockForOnlineStatus: true
 
 
